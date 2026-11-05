@@ -1,28 +1,28 @@
 # 🚀 Project 102 – Capstone OSS Tool (Your OSS Tool Idea) | System Design Level | Full Stack DevOps | FINAL
 
-[Java 17](https://img.shields.io/badge/Java-17-E76F00?logo=openjdk&logoColor=white)
-[Spring Boot 3.2.5](https://img.shields.io/badge/Spring%20Boot-3.2.5-6DB33F?logo=springboot&logoColor=white)
-[Caching](https://img.shields.io/badge/Caching-Caffeine%201000%20max%20600s%20expire%20Stats-blue?logo=redis&logoColor=white)
-[Cache Stats](https://img.shields.io/badge/Cache%20Stats-recordStats%20enabled-brightgreen)
-[Security](https://img.shields.io/badge/Security-Headers%20nosniff%20DENY%20XSS-red?logo=springsecurity&logoColor=white)
-[Builder Pattern](https://img.shields.io/badge/Builder%20Pattern-OssTool.Builder%20Fluent%20API-success?logo=java&logoColor=white)
-[Strategy Pattern](https://img.shields.io/badge/Strategy%20Pattern-Category%20vs%20Author%20vs%20License%20vs%20Hybrid-yellow?logo=elasticsearch&logoColor=white)
-[Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-JpaRepository-6DB33F)
-[H2 Database](https://img.shields.io/badge/H2-Database%20ossdb-003545?logo=h2&logoColor=white)
-[viewCount](https://img.shields.io/badge/viewCount-Added%20%2B%20idx__category%20%2B%20idx__author-orange)
-[JUnit 5](https://img.shields.io/badge/JUnit-5%206%2F6%20Green-25A162?logo=junit5&logoColor=white)
-[Mockito](https://img.shields.io/badge/Mockito-Mocked%20Repo%20when%2Fverify-00BFFF)
-[OSS Pattern](https://img.shields.io/badge/OSS-Pattern%20Category%20Author%20License%20Hybrid-blueviolet?logo=elasticsearch&logoColor=white)
-[Docker](https://img.shields.io/badge/Docker-Multi--Stage-2496ED?logo=docker&logoColor=white)
-[Render](https://img.shields.io/badge/Render-Live%203m50s-brightgreen?logo=render&logoColor=white)
-[Tomcat](https://img.shields.io/badge/Apache%20Tomcat-10.1.20-D4AF00?logo=apachetomcat&logoColor=white)
-[Port](https://img.shields.io/badge/Port-8104-00BFFF)
-[Status](https://img.shields.io/badge/Status-Capstone%20OSS%20Tool%20Live%20Tier%2010-brightgreen)
-[Tier 10](https://img.shields.io/badge/Tier%2010-System%20Design%20Level%20SCALE%20FINAL-blueviolet)
+![Java 17](https://img.shields.io/badge/Java-17-E76F00?logo=openjdk&logoColor=white)
+![Spring Boot 3.2.5](https://img.shields.io/badge/Spring%20Boot-3.2.5-6DB33F?logo=springboot&logoColor=white)
+![Caching](https://img.shields.io/badge/Caching-Caffeine%201000%20max%20600s%20expire%20Stats-blue?logo=redis&logoColor=white)
+![Cache Stats](https://img.shields.io/badge/Cache%20Stats-recordStats%20enabled-brightgreen)
+![Security](https://img.shields.io/badge/Security-Headers%20nosniff%20DENY%20XSS-red?logo=springsecurity&logoColor=white)
+![Builder Pattern](https://img.shields.io/badge/Builder%20Pattern-OssTool.Builder%20Fluent%20API-success?logo=java&logoColor=white)
+![Strategy Pattern](https://img.shields.io/badge/Strategy%20Pattern-Category%20vs%20Author%20vs%20License%20vs%20Hybrid-yellow?logo=elasticsearch&logoColor=white)
+![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-JpaRepository-6DB33F)
+![H2 Database](https://img.shields.io/badge/H2-Database%20ossdb-003545?logo=h2&logoColor=white)
+![viewCount](https://img.shields.io/badge/viewCount-Added%20%2B%20idx__category%20%2B%20idx__author-orange)
+![JUnit 5](https://img.shields.io/badge/JUnit-5%206%2F6%20Green-25A162?logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-Mocked%20Repo%20when%2Fverify-00BFFF)
+![OSS Pattern](https://img.shields.io/badge/OSS-Pattern%20Category%20Author%20License%20Hybrid-blueviolet?logo=elasticsearch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Multi--Stage-2496ED?logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-Live%203m50s-brightgreen?logo=render&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-10.1.20-D4AF00?logo=apachetomcat&logoColor=white)
+![Port](https://img.shields.io/badge/Port-8104-00BFFF)
+![Status](https://img.shields.io/badge/Status-Capstone%20OSS%20Tool%20Live%20Tier%2010-brightgreen)
+![Tier 10](https://img.shields.io/badge/Tier%2010-System%20Design%20Level%20SCALE%20FINAL-blueviolet)
 
 **Live URL:** https://one02-capstone-oss-tool.onrender.com/
 
-[[Live](https://img.shields.io/badge/Live-Render-brightgreen?style=for-the-badge&logo=render)](https://one02-capstone-oss-tool.onrender.com)
+[![Live](https://img.shields.io/badge/Live-Render-brightgreen?style=for-the-badge&logo=render)](https://one02-capstone-oss-tool.onrender.com)
 
 Project 102 - Part of Java 102 Projects Challenge - System Design Level Tier 10 SCALE - Capstone OSS Tool - Your OSS Tool Idea - FINAL PROJECT 102/102 100%
 
@@ -188,97 +188,97 @@ This is Project 102 of Tier 10 - SCALE - After Subscription SaaS (101), now fina
 # 📸 Screenshots - 18 Demos - Capstone OSS Tool Verified - Live on Render 3m50s - YOUR REAL DATA 05-11-2026 - FINAL
 
 ### Demo 1 – Browser - GET / - Home Live JSON - Capstone OSS Tool Tier 10 SCALE FINAL - 11:41 PM
-[Demo1 Home](screenshots/demo1.png)
+![Demo1 Home](screenshots/demo1.png)
 
 *GET http://localhost:8104/ - Browser - 200 OK - Returns {"project":"102-capstone-oss-tool","status":"Live - Capstone OSS Tool - Tier 10 Scale FINAL","tier":"10 - System Design Level - Caching + Security + Testing + Design Patterns - FINAL","port":"8104 local, 10000 on Render","author":"Ravi Teja","caching":"Caffeine Cache - tools cache - 1000 max, 600s expire - Stats enabled - Redis ready","oss":"OSS Pattern - Category Author License Hybrid","security":"Headers nosniff DENY XSS","designPatterns":"Builder Strategy Repository Caching","testing":"JUnit5 Mockito 6 tests","live_url":"https://one02-capstone-oss-tool.onrender.com"} - Proof of Home Live - Portfolio ready - Tier 10 SCALE 102/102 FINAL - 05-11-2026 11:41 PM*
 
 ### Demo 2 – Browser - GET /health - UP - Caching + Security + OSS Active - 11:41 PM
-[Demo2 Health](screenshots/demo2.png)
+![Demo2 Health](screenshots/demo2.png)
 
 *GET http://localhost:8104/health - Browser - 200 OK - Returns {"status":"UP","database":"H2","databaseName":"ossdb","caching":"Caffeine","cacheManager":"Caffeine","cacheSpec":"maximumSize=1000,expireAfterAccess=600s,recordStats","securityHeaders":"X-Content-Type-Options nosniff, X-Frame-Options DENY, X-XSS-Protection","patterns":["Builder","Strategy","Repository","Caching"],"features":["oss","category-author-license"],"oss":"Active - OSS Pattern - Category Author License Hybrid - Strategy Pattern","cache":"Active - Caffeine - tools, tool - Stats enabled","security":"Headers Active"} - Proof of Health Endpoint - Tier 10 Health Check - ossdb - FINAL*
 
 ### Demo 3 – Browser - GET /api/tools - Empty List - Before Create - 11:40 PM
-[Demo3 Empty List](screenshots/demo3.png)
+![Demo3 Empty List](screenshots/demo3.png)
 
 *GET http://localhost:8104/api/tools - Browser - 200 OK - Returns [] - Empty JSON array - Pretty-print - Proof of List Endpoint Working - No data yet - H2 file empty - Caching tools cache ready - localhost:8104 - FINAL*
 
 ### Demo 4 – Postman - POST /api/tools - 200 OK - id 1 - Lombok DevTool MIT 13000 stars - 438ms - CLEAN FINAL
-[Demo4 Create Lombok](screenshots/demo4.png)
+![Demo4 Create Lombok](screenshots/demo4.png)
 
 *POST http://localhost:8104/api/tools Body raw JSON {"name":"Lombok","category":"DevTool","description":"Java annotation library","author":"ProjectLombok","license":"MIT","version":"1.18.30","repoUrl":"https://github.com/projectlombok/lombok","stars":13000,"dataValue":"Lombok-DevTool","viewCount":100} - 200 OK Status: 200 OK Time: 438ms Size: 483B - Returns id:1, name:Lombok, category:DevTool, description:Java annotation library, author:ProjectLombok, license:MIT, version:1.18.30, repoUrl:https://github.com/projectlombok/lombok, stars:13000, viewCount:0 (100 input becomes 0), timestamp:2026-11-05T23:40:46.904102, dataValue:Lombok-DevTool - Builder Pattern - trim() fix - Lombok DevTool MIT 13000 - CLEAN without %20 - 11:40 PM 05-11-2026 FINAL*
 
 ### Demo 5 – Postman - POST /api/tools - 200 OK - id 2 - MapStruct CodeGen Apache-2.0 6500 stars - 18ms
-[Demo5 Create MapStruct](screenshots/demo5.png)
+![Demo5 Create MapStruct](screenshots/demo5.png)
 
 *POST http://localhost:8104/api/tools Body raw JSON {"name":"MapStruct","category":"CodeGen","description":"Code generator","author":"mapstruct","license":"Apache-2.0","version":"1.5.5","repoUrl":"https://github.com/mapstruct/mapstruct","stars":6500,"dataValue":"MapStruct-CodeGen","viewCount":50} - 200 OK Time: 18ms Size: 477B - Returns id:2, name:MapStruct, category:CodeGen, description:Code generator, author:mapstruct, license:Apache-2.0, version:1.5.5, repoUrl:https://github.com/mapstruct/mapstruct, stars:6500, viewCount:0, timestamp:2026-11-05T23:41:08.272825, dataValue:MapStruct-CodeGen - CLEAN - MapStruct CodeGen 6500 - 11:41 PM FINAL*
 
 ### Demo 6 – Postman - POST /api/tools - 200 OK - id 3 - Caffeine Cache Apache-2.0 ben-manes 15000 stars - 17ms
-[Demo6 Create Caffeine](screenshots/demo6.png)
+![Demo6 Create Caffeine](screenshots/demo6.png)
 
 *POST http://localhost:8104/api/tools Body raw JSON {"name":"Caffeine","category":"Cache","description":"High performance cache","author":"ben-manes","license":"Apache-2.0","version":"3.1.8","repoUrl":"https://github.com/ben-manes/caffeine","stars":15000,"dataValue":"Caffeine-Cache","viewCount":0} - 200 OK Time: 17ms Size: 488B - Returns id:3, name:Caffeine, category:Cache, description:High performance cache, author:ben-manes, license:Apache-2.0, version:3.1.8, repoUrl:https://github.com/ben-manes/caffeine, stars:15000, viewCount:0, timestamp:2026-11-05T23:41:27.083332, dataValue:Caffeine-Cache - CLEAN - ben-manes author - stars 15000 - 11:41 PM FINAL*
 
 ### Demo 7 – Postman - POST /api/tools - 200 OK - id 4 - H2 Database Database MPL-2.0 4500 stars - 13ms
-[Demo7 Create H2](screenshots/demo7.png)
+![Demo7 Create H2](screenshots/demo7.png)
 
 *POST http://localhost:8104/api/tools Body raw JSON {"name":"H2 Database","category":"Database","description":"In-memory DB","author":"h2database","license":"MPL-2.0","version":"2.2.224","repoUrl":"https://github.com/h2database/h2database","stars":4500,"dataValue":"H2 Database-Database","viewCount":0} - 200 OK Time: 13ms Size: 479B - Returns id:4, name:H2 Database, category:Database, description:In-memory DB, author:h2database, license:MPL-2.0, version:2.2.224, repoUrl:https://github.com/h2database/h2database, stars:4500, viewCount:0, timestamp:2026-11-05T23:41:51.038208, dataValue:H2 Database-Database - CLEAN - H2 Database latest - 11:41 PM FINAL*
 
 ### Demo 8 – Postman - GET /api/tools - With 4 Tools - viewCount 0 - CLEAN - 4 items timestamp DESC id 4,3,2,1 FINAL
-[Demo8 List 4 Items](screenshots/demo8.png)
+![Demo8 List 4 Items](screenshots/demo8.png)
 
 *GET http://localhost:8104/api/tools - Browser - 200 OK - Returns 4 tools id 4 H2 Database Database In-memory DB h2database MPL-2.0 2.2.224 https://github.com/h2database/h2database stars 4500 viewCount 0 timestamp 2026-11-05T23:41:51.038208 dataValue H2 Database-Database + id 3 Caffeine Cache High performance cache ben-manes Apache-2.0 3.1.8 https://github.com/ben-manes/caffeine stars 15000 viewCount 0 timestamp 2026-11-05T23:41:27.083332 dataValue Caffeine-Cache + id 2 MapStruct CodeGen Code generator mapstruct Apache-2.0 1.5.5 https://github.com/mapstruct/mapstruct stars 6500 viewCount 0 timestamp 2026-11-05T23:41:08.272825 dataValue MapStruct-CodeGen + id 1 Lombok DevTool Java annotation library ProjectLombok MIT 1.18.30 https://github.com/projectlombok/lombok stars 13000 viewCount 0 timestamp 2026-11-05T23:40:46.904102 dataValue Lombok-DevTool - Ordered by timestampDesc - viewCount 0 - Proof of List Persistence - H2 ossdb - idx_category + idx_author + X-Cache: Caffeine - CLEAN without %20 - data_value fix - Ordered DESC 4,3,2,1 timestamp 23:41:51.038208 to 23:40:46.904102 - FINAL*
 
 ### Demo 9 – Postman - GET /api/tools/category/DevTool - Category count 1 id 1 Lombok - FINAL
-[Demo9 Category Strategy](screenshots/demo9.png)
+![Demo9 Category Strategy](screenshots/demo9.png)
 
 *GET http://localhost:8104/api/tools/category/DevTool - Browser - 200 OK - Returns filter DevTool data id 1 Lombok DevTool Java annotation library ProjectLombok MIT 1.18.30 https://github.com/projectlombok/lombok stars 13000 viewCount 0 timestamp 2026-11-05T23:40:46.904102 dataValue Lombok-DevTool count 1 strategy category-Strategy - Category isolation - DevTool only - CLEAN - id 1 - FINAL*
 
 ### Demo 10 – Postman - GET /api/tools/author/ben-manes - Author count 1 id 3 Caffeine 15000 stars - FINAL
-[Demo10 Author Strategy](screenshots/demo10.png)
+![Demo10 Author Strategy](screenshots/demo10.png)
 
 *GET http://localhost:8104/api/tools/author/ben-manes - Browser - 200 OK - Returns filter ben-manes data id 3 Caffeine Cache High performance cache ben-manes Apache-2.0 3.1.8 https://github.com/ben-manes/caffeine stars 15000 viewCount 0 timestamp 2026-11-05T23:41:27.083332 dataValue Caffeine-Cache count 1 strategy author-Strategy - Author-Strategy - Only ben-manes author - CLEAN - id 3 Caffeine 15000 stars - FINAL*
 
 ### Demo 11 – Browser - GET /api/tools/license/%20MIT - License count 1 FIXED from [] - CRITICAL - YOUR REAL DATA - FINAL
-[Demo11 License FIXED %20MIT](screenshots/demo11.png)
+![Demo11 License FIXED %20MIT](screenshots/demo11.png)
 
 *GET http://localhost:8104/api/tools/license/%20MIT - Browser - 200 OK - Returns {"filter":"MIT","data":[{"id":1,"name":"Lombok","category":"DevTool","description":"Java annotation library","author":"ProjectLombok","license":"MIT","version":"1.18.30","repoUrl":"https://github.com/projectlombok/lombok","stars":13000,"viewCount":0,"timestamp":"2026-11-05T23:40:46.904102","dataValue":"Lombok-DevTool"}],"count":1,"strategy":"license-Strategy"} - FIXED FROM [] EMPTY - CRITICAL PROOF trim() fix - Was [] empty due to license=" MIT" bug %20MIT URL encoded space - Now CLEAN without %20 returns 1 item id 1 Lombok MIT 13000 stars 23:40:46.904102 - Core Tier 10 Fix - Same as 100 resource fix + 99 isolated fix + 101 tenant fix - Most important demo - Proof of Bug Fix - Pretty-print browser - %20MIT proof - FINAL 102/102 100%*
 
 ### Demo 12 – Browser - GET /api/tools/hybrid?category=Cache&author=ben-manes - Hybrid count 1 Caffeine - YOUR REAL DATA - FINAL
-[Demo12 Hybrid Filtered](screenshots/demo12.png)
+![Demo12 Hybrid Filtered](screenshots/demo12.png)
 
 *GET http://localhost:8104/api/tools/hybrid?category=Cache&author=ben-manes - Browser - 200 OK - Returns {"filter":{"category":"Cache","author":"ben-manes"},"data":[{"id":3,"name":"Caffeine","category":"Cache","description":"High performance cache","author":"ben-manes","license":"Apache-2.0","version":"3.1.8","repoUrl":"https://github.com/ben-manes/caffeine","stars":15000,"viewCount":0,"timestamp":"2026-11-05T23:41:27.083332","dataValue":"Caffeine-Cache"}],"count":1,"strategy":"hybrid-Strategy"} - Hybrid filtered Category Cache + Author ben-manes - Returns 1 item id 3 Caffeine Cache High performance cache ben-manes Apache-2.0 3.1.8 15000 stars 23:41:27.083332 - Caffeine only - Core Tier 10 Feature - Hybrid filtered - FINAL*
 
 ### Demo 13 – Browser - GET /api/tools/hybrid - Hybrid count 4 sorted timestamp DESC id 4,3,2,1 - Core Feature - YOUR REAL DATA - FINAL
-[Demo13 Hybrid Sorted](screenshots/demo13.png)
+![Demo13 Hybrid Sorted](screenshots/demo13.png)
 
 *GET http://localhost:8104/api/tools/hybrid - Browser - 200 OK - Returns {"filter":null,"data":[{"id":4,"name":"H2 Database","category":"Database","description":"In-memory DB","author":"h2database","license":"MPL-2.0","version":"2.2.224","repoUrl":"https://github.com/h2database/h2database","stars":4500,"viewCount":0,"timestamp":"2026-11-05T23:41:51.038208","dataValue":"H2 Database-Database"},{"id":3,"name":"Caffeine","category":"Cache","description":"High performance cache","author":"ben-manes","license":"Apache-2.0","version":"3.1.8","repoUrl":"https://github.com/ben-manes/caffeine","stars":15000,"viewCount":0,"timestamp":"2026-11-05T23:41:27.083332","dataValue":"Caffeine-Cache"},{"id":2,"name":"MapStruct","category":"CodeGen","description":"Code generator","author":"mapstruct","license":"Apache-2.0","version":"1.5.5","repoUrl":"https://github.com/mapstruct/mapstruct","stars":6500,"viewCount":0,"timestamp":"2026-11-05T23:41:08.272825","dataValue":"MapStruct-CodeGen"},{"id":1,"name":"Lombok","category":"DevTool","description":"Java annotation library","author":"ProjectLombok","license":"MIT","version":"1.18.30","repoUrl":"https://github.com/projectlombok/lombok","stars":13000,"viewCount":0,"timestamp":"2026-11-05T23:40:46.904102","dataValue":"Lombok-DevTool"}],"count":4,"strategy":"hybrid-Strategy"} - Sorted by timestamp DESC 23:41:51.038208 H2 Database + 23:41:27.083332 Caffeine + 23:41:08.272825 MapStruct + 23:40:46.904102 Lombok - id 4,3,2,1 - Hybrid-Strategy - Core Tier 10 Feature - OSS sorted timestamp DESC - Most important demo - Same as 99 hybrid sorted 4.8 4.5 4.2 + 100 sorted timestamp DESC 22:36:31 22:36:01 + 101 sorted price DESC 299.99,99.99,29.99,9.99 but for timestamp - CLEAN - Pretty-print - FINAL*
 
 ### Demo 14 – Browser - GET /api/tools/count - Count 4 - YOUR REAL DATA - FINAL
-[Demo14 Count](screenshots/demo14.png)
+![Demo14 Count](screenshots/demo14.png)
 
 *GET http://localhost:8104/api/tools/count - Browser - 200 OK - Returns {"count":4} - Count proof - Pretty-print - Total 4 tools - Count endpoint - localhost:8104/api/tools/count - 05-11-2026 FINAL - Image: image_c503ae.png YOUR REAL DATA count 4*
 
 ### Demo 15 – Browser - GET /api/tools/info - Info Tier 10 SCALE FINAL - YOUR REAL DATA - FINAL
-[Demo15 Info](screenshots/demo15.png)
+![Demo15 Info](screenshots/demo15.png)
 
 *GET http://localhost:8104/api/tools/info - Browser - 200 OK - Returns {"info":"OssTool Service - Builder Pattern + Strategy Pattern Category vs Author vs License vs Hybrid sorted timestamp DESC + Repository Pattern + Caffeine 1000 max 600s Stats"} - Info proof - Tier 10 FINAL - Same as 101 info - localhost:8104/api/tools/info - Image: image_ee45a9.png YOUR REAL DATA FINAL*
 
 ### Demo 16 – Browser - GET /api/tools/search?q=Caffeine - Search count 1 id 3 Caffeine - YOUR REAL DATA - FINAL
-[Demo16 Search](screenshots/demo16.png)
+![Demo16 Search](screenshots/demo16.png)
 
 *GET http://localhost:8104/api/tools/search?q=Caffeine - Browser - 200 OK - Returns {"data":[{"id":3,"name":"Caffeine","category":"Cache","description":"High performance cache","author":"ben-manes","license":"Apache-2.0","version":"3.1.8","repoUrl":"https://github.com/ben-manes/caffeine","stars":15000,"viewCount":0,"timestamp":"2026-11-05T23:41:27.083332","dataValue":"Caffeine-Cache"}],"query":"Caffeine","count":1} - Search proof - Search by q Caffeine - id 3 Caffeine Cache ben-manes Apache-2.0 3.1.8 15000 stars 23:41:27.083332 - viewCount 0 - Pretty-print - Image: image_73e1e5.png YOUR REAL DATA FINAL*
 
 ### Demo 17 – Eclipse Console - JUnit Logs - 5 Tests Logs - BUILDER Caffeine + Mocked 2 tools - YOUR REAL DATA - FINAL
-[Demo17 JUnit Logs](screenshots/demo17.png)
+![Demo17 JUnit Logs](screenshots/demo17.png)
 
 *Eclipse Console - WARNING A Java agent has been loaded dynamically (C:\Users\Ravi Teja\.m2\repository\net\bytebuddy\byte-buddy-agent\1.14.13\byte-buddy-agent-1.14.13.jar) WARNING If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading WARNING If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage WARNING Dynamic loading of agents will be disallowed by default in a future release OpenJDK 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended - Builder Pattern Test Passed: Caffeine + Search Test Passed: Found 1 rec for category DevTool + Mockito Test Passed: getAllTools - Mocked 2 tools + OssTool Entity Test Passed + Mockito Test Passed: getToolById + Format Tool Test Passed: Category DevTool: Lombok - MIT - 05-Nov-2026 11:46 pm - 11:46 pm elapsed 0:00 - Console - Logs proof FINAL - Same as 101 logs Builder Pattern Test Passed: PRO*
 
 ### Demo 18 – Eclipse JUnit - Green Bar - 6/6 Tests Passed - 6.809s (6.200s) - FIXED [] bug %20MIT proof - YOUR REAL DATA - FINAL
-[Demo18 JUnit Green](screenshots/demo18.png)
+![Demo18 JUnit Green](screenshots/demo18.png)
 
 *Eclipse JUnit - Finished after 6.809 seconds - Runs: 6/6 Errors: 0 Failures: 0 Green Bar - OssToolServiceTest [Runner: JUnit 5] (6.200 s) - Failure Trace empty - Green Bar proof - Was 2/2 Tier 5 -> Now 6/6 Tier 10 - FIXED [] bug with trim() %20MIT proof - Builder Pattern Caffeine + Search 1 rec + Mocked 2 tools + Entity + getById + Format DevTool Lombok MIT - 6.809s (6.200 s) - Same as 101 15.171s (6.828s) + 100 5.328s - JUnit Green - 11:46 PM 05-11-2026 - 05-Nov-2026 - 26°C - ENG IN - FINAL - Image: image_858c8a.png YOUR REAL DATA FINAL - 6.809s vs 101 15.171s*
 
 ### Demo 19 – Render - Deploy succeeded Live - DURATION 3m50s - Your service is live - final102 - 89.101s - FINAL
-[Demo19 Render Live 3m50s FINAL](screenshots/demo19.png)
+![Demo19 Render Live 3m50s FINAL](screenshots/demo19.png)
 
 *Render Dashboard - 102-capstone-oss-tool - STATUS Deploy succeeded | Live Green Tick - DURATION 3m50s - DEPLOYED Nov 5 2026 at 11:50 PM GMT+5:30 - TRIGGER First Deploy - SOURCE final102 - Tomcat started on port 10000 - Started OsstoolApplication in 89.101 seconds (process running for 99.293) - Your service is live - Available at primary URL https://one02-capstone-oss-tool.onrender.com - Initializing Spring DispatcherServlet - Completed initialization in 94 ms - Proof of Production Live - Same as 101 Live 3m50s + 100 Live 3m49s - Tier 10 SCALE 102/102 100% - FINAL - final102 latest fix - FINAL PROJECT*
 
